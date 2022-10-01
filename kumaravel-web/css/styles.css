@@ -1,0 +1,208 @@
+body {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Jua', sans-serif;
+  line-height: 2;
+}
+
+ul{
+  list-style: none;
+}
+
+/* Home-Section */
+
+.home {
+  background-color: #748DA6;
+  padding: 5%;
+}
+
+.navbar{
+  padding: 2rem 5rem;
+  font-family: 'Jua', sans-serif;
+  background-color: #748DA6;
+}
+
+
+.navbar-nav a {
+  font-size: 1.25rem;
+  border-radius: 0.5rem;
+  margin: auto 1rem;
+}
+
+.navbar-nav a:hover {
+  color: #E2DCC8;
+  background-color: #3D3C42;
+}
+
+.welcome-text {
+  margin: 15% 15%;
+}
+
+.download-btn {
+  color: #898AA6;
+  background: #3D3C42;
+  border: none;
+  padding: 1rem 0;
+  border-radius: 3rem;
+
+}
+
+.download-btn:hover {
+  color: #E2DCC8;
+  background: #3D3C42;
+  border: none;
+}
+
+.social-block {
+  margin:2.5rem 5rem;
+  background-color: #3D3C42;
+  text-align: center;
+  border-radius: 3rem;
+}
+
+.s-link {
+  padding: 1rem 1rem;
+}
+
+.social-block a{
+  color: #898AA6;
+}
+
+.social-block a:hover {
+  color: #E2DCC8;
+}
+
+.img-box {
+  width:100%;
+  padding: 15% 25% 5%;
+}
+
+/* Skills Section */
+
+.skills {
+  padding: 10% 10%;
+}
+
+.skill-block {
+  padding: 1rem;
+  text-align: center;
+}
+
+.htmlicon{
+  color: #FF0063;
+}
+
+.cssicon{
+  color: #FF9F29;
+}
+
+.bootstrapicon{
+  color: #A084CF;
+}
+
+
+/* experience section */
+.experience{
+  /* background-color: #898AA6; */
+  background-color: #748DA6;
+  padding: 5rem 5rem;
+}
+
+.work1 {
+  padding: 1rem 1rem;
+  border-bottom: solid #B7D3DF;
+  margin-top: 5rem;
+}
+
+.work2 {
+  padding: 1rem 1rem;
+  border-bottom: solid #76BA99;
+  margin-top: 5rem;
+}
+
+.work-img-box {
+  width:100%;
+  padding: 10% 15% 15%;
+}
+
+/* Education */
+.education {
+  padding: 5rem 5rem;
+}
+
+.graduation {
+  text-align: center;
+  padding: 10% 5%;
+}
+
+.edu-icon1 {
+  color: #A267AC;
+}
+
+.edu-icon2 {
+  color: #1572A1;
+}
+
+.edu-img-box {
+  width:100%;
+  /* margin: 2rem auto; */
+  padding: 25% 0;
+}
+
+/* Projects */
+
+.projects{
+  background-color: #748DA6;
+  /* background-color: #898AA6; */
+  text-align: center;
+  padding-top: 5%;
+}
+
+.p-slide {
+  padding: 5% 0;
+}
+
+.project-image {
+  width: 31.25rem;
+  height: 15.625rem;
+}
+
+/* Footer */
+
+.footer {
+  background: #000;
+  color: #fff;
+  text-align: center;
+  padding: 2rem;
+}
+
+.footer ul{
+  padding: 0;
+}
+
+.footer a{
+  color: #fff;
+}
+
+.footer-icon {
+  margin: 20px 10px;
+}
+
+.font-jua {
+  font-family: 'Jua', sans-serif;
+}
+
+/* Common css */
+.text-center {
+  text-align:center;
+}
+
+.font-size-n {
+  font-size: 1.5rem;
+}
